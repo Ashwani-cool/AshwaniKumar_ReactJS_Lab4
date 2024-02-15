@@ -1,0 +1,46 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Household Expenses",
+      "payeeName": "Rahul",
+      "price": 2100,
+      "date": "2021-03-26T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Building Maintainence Expenses",
+      "payeeName": "Ravi",
+      "price": 3600,
+      "date": "2020-05-16T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Electricity Bill - Sep Month",
+      "payeeName": "Sanjay",
+      "price": 1200,
+      "date": "2022-10-16T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Dinner Expenses",
+      "payeeName": "Rahul",
+      "price": 1250,
+      "date": "2023-06-20T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "expenseDescription": "Saturday - Movie Night",
+      "payeeName": "Ramesh",
+      "price": 920,
+      "date": "2023-03-16T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "expenseDescription": "Bike Oil",
+      "payeeName": "Ramesh",
+      "price": 666,
+      "date": "2022-05-26T00:00:00.000Z",
+      "id": 6
+    }
+  ]
+}
